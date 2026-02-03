@@ -1,0 +1,17 @@
+# Jekyll configuration for GitHub Pages
+
+title: tehrandavis.gith
+description: Personal GitHub Pages site
+author: Tehran Davis
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git/
+  - .gitignore
